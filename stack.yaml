@@ -3,3 +3,7 @@ flags:
   parconc-examples:
     distributed: true
     accelerate: true
+
+extra-deps:
+  - Cabal-2.2.0.1
+  - text-1.2.5.0
